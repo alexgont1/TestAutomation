@@ -1,6 +1,6 @@
 Feature: Basic Authentication
 
-@test_#1
+@test_1
   Scenario: User with valid credentials can login
     Given I open a browser
     When I login with "admin" username and "admin" password
