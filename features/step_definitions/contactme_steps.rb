@@ -1,4 +1,4 @@
-driver_path = "C:/Users/Teacher/Desktop/repos/practical-sqa/drivers/chromedriver.exe"
+driver_path = "S:/Projects/TestAutomation/drivers/chromedriver.exe"
 
 
 
